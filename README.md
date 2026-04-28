@@ -1,6 +1,8 @@
 ## Hi, I'm Pa Chia 👋
 
-I’m a data scientist with a background in astrophysics, where I built models to study exoplanets and complex time-series data. My work focuses on turning messy, real-world data into clear insights using statistical modeling, machine learning, and thoughtful visualization.
+🌌 Astrophysics PhD → Data Scientist  
+✨ Finding patterns in complex data  
+📊 Turning them into clear insights
 
 <!--
 **pcthao/pcthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
